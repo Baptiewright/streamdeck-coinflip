@@ -1,0 +1,44 @@
+{
+  "Actions": [
+    {
+      "Icon": "pluginIcon",
+      "Name": "Coin Flip",
+      "States": [
+        {
+          "Image": "heads",
+          "TitleAlignment": "middle",
+          "FontSize": "10"
+        },
+        {
+          "Image": "tails",
+          "TitleAlignment": "middle",
+          "FontSize": "10"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Simple Coin Flip",
+      "UUID": "com.baptiewright.coinflip.action"
+    }
+  ],
+  "Author": "Baptiewright Designs",
+  "CodePath": "main.html",
+  "Description": "Simple Coin Flip for making descisions",
+  "Name": "Coin Flip",
+  "Icon": "pluginIcon",
+  "URL": "http://www.baptiewright.com",
+  "Version": "0.1",
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.11"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion" : "4.1"
+  }
+}
